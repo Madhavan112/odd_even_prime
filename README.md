@@ -6,3 +6,6 @@ CSS:
 grid,media query,flexbox and many more properties are used
 JAVASCRIPT:
 Basic DOM and js functions are used
+Please Click below to view the Website!!!
+
+ https://madhavan112.github.io/odd_even_prime/
